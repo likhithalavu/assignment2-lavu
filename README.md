@@ -3,7 +3,7 @@
 ### Salar Jung Museum
 Salar Jung Museum takes you on a nostalgic tour of the past, with its collection of royal trappings such as **sculpture**, **paintings**, **textiles**, **manuscripts**, **ceramics**, **carpets**, **clocks**, **furniture** etc all from various parts of the world.
 ***
-#### Closest Airport to Museum
+### Closest Airport to Museum
 1. Rajiv Gandhi International Airport
 2. There are 4 ways to get from Salar Jung Museum to Rajiv Gandhi Airport
     1. Subway
