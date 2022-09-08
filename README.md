@@ -5,7 +5,7 @@ Salar Jung Museum takes you on a nostalgic tour of the past, with its collection
 ***
 ### Closest Airport to Museum
 1. Rajiv Gandhi International Airport
-2. There are 4 ways to get from Salar Jung Museum to Rajiv Gandhi Airport
+2. There are 5 ways to get from Salar Jung Museum to Rajiv Gandhi Airport
     1. Subway
     2. Bus 
     3. Taxi 
@@ -21,6 +21,7 @@ Salar Jung Museum takes you on a nostalgic tour of the past, with its collection
 - Taj Falaknuma Palace
 - Birla Mandir
 
+[AboutMe Link](AboutMe.md)
 
 
 
