@@ -1,7 +1,7 @@
 # likhitha chowdary lavu #
        i came from india to study masters in northwest missouri state university in applied computer science and iam very much intersted to know more about web applications .
-![image](likhitha.png)
 
+![image](likhitha.png)
 [Link to the image](https://github.com/likhithalavu/assignment2-lavu/blob/main/likhitha.png)
 
 ****

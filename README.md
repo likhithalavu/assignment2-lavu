@@ -21,7 +21,7 @@ Salar Jung Museum takes you on a nostalgic tour of the past, with its collection
 - Taj Falaknuma Palace
 - Birla Mandir
 
-[AboutMe Link](AboutMe.md)
+
 
 
 
